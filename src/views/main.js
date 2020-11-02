@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import VueResource from 'vue-resource';
 import VueRouter from 'vue-router';
-import Routes from "../controllers/routers";
+import Routes from "../vue/controllers/routers";
 import AppVue from '../vue/App.vue';
 import  './static/css/bootstrap.css';
 import  './static/css/style.css';

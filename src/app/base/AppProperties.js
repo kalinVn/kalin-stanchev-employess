@@ -1,5 +1,5 @@
-import Project from '../../app/Project.js';
-import Employee from '../../app/Employee.js';
+import Project from '../../app/units/Project.js';
+import Employee from '../../app/units/Employee.js';
 class AppProperties {
 
 
